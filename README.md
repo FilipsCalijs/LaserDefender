@@ -38,7 +38,7 @@ To run the TileVania project:
 
 ### **Game Design & Animation**
 - Setting up sprite sheets and creating animations for player and enemy characters.  
-- State-based animation transitions.  
+- State-based animation transitions. 
 
 ### **Tilemap Integration**
 - Creating tilemaps with layers and rule tiles for reusable and consistent designs.  
