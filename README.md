@@ -9,8 +9,6 @@
 1. [Project Setup](#project-setup)  
 2. [Core Features](#core-features)  
 3. [Lessons Covered](#lessons-covered)  
-4. [Tools and Techniques](#tools-and-techniques)  
-5. [Final Notes](#final-notes)  
 
 ---
 
